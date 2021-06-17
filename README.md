@@ -1,5 +1,11 @@
-## Available Scripts
+# Realtime Chat Application
 
-In the project directory, you can run:
+### [Live Site](https://ohchat.netlify.app/login)
 
-### `npm start`
+![Chat Application](https://lh3.googleusercontent.com/YssKUtkaBOPPCtl7B8tpdRSEGz30rc3ZC6jtuNXQW3Y4t-_Fl2ewOVlSBbhDJznHeR5G8Tbp-kl15rGHmex_zVwpRRxQftnTciHyrM2HsUqvoKiJzK3a21JqEs1mEbkAtyWce2Q1mKuWcij8FCRXsg48pe6jqxNrdsWKGxhjl3_vVKVGSH1mOPBeXqe3dsKY760tnfNCrcli9-b4MupYnJlNkG45m3uFKh5MW3OXfZQ6MeXk4XHYmuDVAIod9bNo36aIlOcba4WCpz3lS_Din-3yQIxiNKoMvCI_mzg5DiBezpghD1bGFH1Yqdsid0cadjBII-HIehrCFFUM1TtRqdts5GMdfgcfd7vjuc0MjvFptBjCIGH8H6uQ6jNYp23hxH_IGIIGyDAa-g9cKbFCPhR2xQedYP5fmlXVXeut7LIqjXWS8RVUVGPr45rmyHxSAV5bEnGO4EGj1AVQBJpkg4zagye8Xe6wT0ZEjY0MOwuDJBd96Wm0id7SDxaSc1dJ43m9dDjp4hIuwAweRRbaYFf-GMwnCx_C0X6xdlmgSL97jpTHOtnSYliZE6CH41LHpaI6BamOIok3QXqw31WbT0yXajZh_gznf32Cuh4qT9-1tG8tZRdwMDLqmYOQYWQ3aGsdDzk0yC-Od5v7opZe8H1MokfYwiWIEjGe2184ZeRXR7kc-MjHMx9_mxV9ifKeNKyf2Ll66fTxkas625uLSbw=w1428-h918-no?authuser=0)
+
+## Introduction
+This is a code repository for ohChat backend
+
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the development server
